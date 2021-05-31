@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://komarev.com/ghpvc/?username=ealux" alt="blueedge"/>
+
 ![](https://hit.yhype.me/github/profile?user_id=29152500)
