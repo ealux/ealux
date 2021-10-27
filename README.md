@@ -20,3 +20,11 @@ Here are some ideas to get you started:
 <!--<img src="https://komarev.com/ghpvc/?username=ealux" alt="blueedge"/> -->
 
 ![](https://hit.yhype.me/github/profile?user_id=29152500)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ealux&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Ссылки на конкретный репозиторий
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+
